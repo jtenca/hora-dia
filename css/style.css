@@ -1,0 +1,37 @@
+body {
+    background: #483D8B;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+header {
+    color: white;
+    text-align: center;
+    font-size: 25px;  
+    margin-bottom: 40px;
+}
+
+section {
+
+    background: #F5F5F5;
+    margin-top: 350px;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #4F4F4F;
+    font-size: 25px;
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    border-radius: 50%;
+}
+footer {
+    font-style: italic;
+    text-align: center;
+    margin-top: 80px;
+}
